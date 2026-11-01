@@ -1,0 +1,7 @@
+subject,date,elapsed_days,cumulative_cooling_seconds_prior,spatial_info_median,field_count_median,peak_rate_median,n_units_used
+MS22,2018-06-21,0,0.0,1.809,9.0,12.6,27
+MS22,2018-06-28,7,151.6,1.849,5.0,22.9,57
+MS22,2018-06-29,8,342.4,1.651,3.0,38.4,127
+MS22,2018-07-11,20,520.8,1.277,3.0,42.0,62
+MS22,2018-07-19,28,668.5,1.701,3.0,26.5,58
+MS22,2018-07-20,29,788.8,1.35,4.0,39.9,76

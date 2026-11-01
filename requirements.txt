@@ -1,0 +1,10 @@
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+statsmodels>=0.14.0
+pynwb>=2.5.0
+dandi>=0.55.0
+remfile>=0.1.11
+h5py>=3.8.0
+jupyterlab>=4.0.0
